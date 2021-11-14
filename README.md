@@ -1,15 +1,4 @@
-# Sample Project
-
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template!
-
-## Files
-
-* `.gitignore`
-<br> Globally ignored files by `git` for the project.
-* `environment.yml`
-<br> `conda` environment description needed to run this project.
-* `README.md`
-<br> Description of the project (see suggested headings below)
+# NASA Hackweek 2021 - Upwelling
 
 ## Folders
 
@@ -22,8 +11,6 @@ Notebooks that are considered delivered results for the project should go in her
 ### `scripts`
 Helper utilities that are shared with the team
 
-# Recommended content for your README.md file:
-
 ## Project Summary
 
 ### Project Title
@@ -32,7 +19,7 @@ Brief title describing the proposed work.
 
 ### Collaborators on this project
 
-List all participants on the project. Choose one team member to act as project lead, and identify one hackweek organizer as the data science lead.
+Project lead: Eli Holmes, NOAA
 
 ### The problem
 
@@ -60,5 +47,7 @@ Building from what you learn at this hackweek, what new approaches would you lik
 
 ### Background reading
 
-Optional: links to manuscripts or technical documents for more in-depth analysis.
+### Notes
+
+
 
