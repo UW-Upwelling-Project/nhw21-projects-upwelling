@@ -1,19 +1,8 @@
 # NASA Hackweek 2021 - Upwelling
 
-## Folders
+## Spatio-temporal changes in global upwelling patterns
 
-### `contributors`
-Each team member has it's own folder under contributors, where they can work on their contribution. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch.
-
-### `notebooks`
-Notebooks that are considered delivered results for the project should go in here.
-
-### `scripts`
-Helper utilities that are shared with the team
-
-## Project Summary
-
-### Project Title
+### Project Summary
 
 Brief title describing the proposed work.
 
@@ -24,6 +13,8 @@ Project lead: Eli Holmes, NOAA
 ### The problem
 
 What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+
+![](images/upwelling_zones.png)
 
 ### Application Example
 
