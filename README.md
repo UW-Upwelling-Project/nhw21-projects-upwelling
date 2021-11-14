@@ -14,7 +14,7 @@ Project lead: Eli Holmes, NOAA
 
 What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
 
-![](images/upwelling_zones.png)
+![](images/upwelling_zones_crop.png)
 
 ### Application Example
 
