@@ -36,11 +36,28 @@ List the specific tasks you want to accomplish or research questions you want to
 
 ### Existing methods
 
-How would you or others traditionally try to address this problem?
+I have been doing some pilot projects using the Optimal Interpolation SST dataset (2.5 deg grid).
+
+**A nearshore-offshore upwelling detection method** Simple and straight-forward to apply.
+
+![](images/auto-detection1.png)
+
+**Image decomposition algorithms: PCA and hierarchical clustering**
+
+![](unnamed-chunk-9-1.png)
+
 
 ### Proposed methods/tools
 
-Building from what you learn at this hackweek, what new approaches would you like to try to implement?
+I'd like to try the SST differential idea with some different SST products and extend this to the entire N and S Americas. I have a 20km and 300km coastal shape files with sample points every 100km along the 20km coast line along with the point closest to that sample point but on the 300km line. So a pair of points: nearshore and offshore. 
+![](coast-samples.png)
+
+I'd like to get statistics (SST plus whatever else seems appropriate) around those points. Currently I am using mean SST. 
+![](global-coast-lines.png)
+
+I'm thinking a 2 x (# sample points) x (# days) xarray with the statistics.
+
+
 
 ### Background reading
 
