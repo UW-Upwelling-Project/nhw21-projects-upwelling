@@ -24,6 +24,7 @@ Already 30 years ago, Bakun (1990) postulated that global warming would impact m
 However this work has focused on the wind-driven eastern boundary upwelling systems: California, Humboldt (off Peru), Benguela (off SW coast of Africa) and Canary (off the NW coast of Africa). These are major upwelling systems and are responsible for ca 20% of the global fish catch, but they are only a fraction of the world's upwelling systems. The world's upwelling systems are diverse, some wind-driven while others are not, some continual while many are seasonal, and some current-driven.
 
 ![](images/upwelling_zones_crop.png)
+
 Figure 2. World's upwelling zones.
 
 
@@ -67,15 +68,14 @@ Figure 4. Using PCA-based image decomposition to study spatio-temporal changes i
 
 ### Proposed methods/tools
 
-I'd like to try the SST differential idea with some different SST products and extend this to the entire N and S Americas. I have a 20km and 300km coastal shape files with sample points every 100km along the 20km coast line along with the point closest to that sample point but on the 300km line. So a pair of points: nearshore and offshore. 
+I'd like to try the SST differential idea with some different SST products and extend this to the entire N and S Americas. I have a 20km and 300km coastal shape files with sample points every 100km along the 20km coast line along with the point closest to that sample point but on the 300km line. So a pair of points: nearshore and offshore. I'd like to get statistics (SST plus whatever else seems appropriate) around those points. Currently I am using mean SST. I'm thinking a (# environmental covariates) x (# sample points) x (# days) xarray with the statistics.
+
 ![](images/coast-samples.png)
 Figure 5. The 20km and 300km coastal shapefile lines along with points every 100km along the 20km coastal line.
 
-I'd like to get statistics (SST plus whatever else seems appropriate) around those points. Currently I am using mean SST. 
 ![](images/global-coast-lines.png)
 Figure 6. The 20km (blue) and 300km (red) lines shown for North and South America.
 
-I'm thinking a (# environmental covariates) x (# sample points) x (# days) xarray with the statistics.
 
 
 
