@@ -38,12 +38,12 @@ List the specific tasks you want to accomplish or research questions you want to
 
 I have been doing some pilot projects using the Optimal Interpolation SST dataset (2.5 deg grid).
 
-**A nearshore-offshore upwelling detection method** Simple and straight-forward to apply.
+**A nearshore-offshore upwelling detection method** Simple and straight-forward to apply. Work with Howard Baek, Univ of WA.
 
 <img src="images/auto-detection1.png" width="60%"><img src="images/upwelling-seasonality.png" width="40%">
 
 
-**Image decomposition algorithms: PCA and hierarchical clustering**
+**Image decomposition algorithms: PCA and hierarchical clustering** Work with Jacob Zikan, Dartmouth College.
 
 ![](images/unnamed-chunk-9-1.png)
 
