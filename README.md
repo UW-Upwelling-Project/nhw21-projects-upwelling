@@ -28,11 +28,25 @@ However this work has focused on the wind-driven eastern boundary upwelling syst
 
 ### Sample data
 
-If you already have some data to explore, briefly describe it here (size, format, how to access).
+I have used NASA's Optimal Interpolation SST product in the past [OI-SST](https://www.ncei.noaa.gov/products/optimum-interpolation-sst), but am looking to learn about other products at the hackathon. For SST, a product with good coastal resolution is critical so I have only use AVHRR-based products in past research. The OI product interpolates gaps so fixes bias due to NAs (but perhaps at the cost of smoothing).
 
-### Specific Questions
+Other environmental variables could also be used to help detect upwelling. SSH is one idea although when I looked in the past, I couldn't find long term data (into the 1980s). Chl-a would also be interesting, although I have struggled to use that due to all the missing values. Note, Chl-a is not necessarily highly correlated with upwelling. It's a complex relationship.
 
-List the specific tasks you want to accomplish or research questions you want to answer.
+### Specific Goals
+
+Minimal goals:
+
+Since I work in R and only have basic skills in Python, I think learning to work with rasters in Python will probably take a lot of time.
+
+* Using my lat/lon pairs (see below for a decription), create an xarrary of SST average statistics that are 50km radius around the points.
+* Learn how to visualize the xarray: heatmaps.
+
+Less minimal goals if there are others who want to join
+
+* Collect other upwelling statistics (other variables)
+* Implement some more sophisticated algorithms of the temporal and/or spatial structure of the upwelling. I'm thinking of the work that is being done to characterize mesoscale eddies: centers, movement of centers, fronts, size of the upwelling zone, robustness of the upwelling zone, compactness. 
+
+I think tracking the upwelling "center", if that can be defined, might be interesting as the prediction is that those centers should be moving poleward.
 
 ### Existing methods
 
