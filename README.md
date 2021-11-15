@@ -44,7 +44,7 @@ I have been doing some pilot projects using the Optimal Interpolation SST datase
 
 **Image decomposition algorithms: PCA and hierarchical clustering**
 
-![](unnamed-chunk-9-1.png)
+![](images/unnamed-chunk-9-1.png)
 
 
 ### Proposed methods/tools
@@ -76,8 +76,8 @@ Wang, D., Gouhier, T. C., Menge, B. A. & Ganguly, A. R. 2015. Intensification an
 Xiu, P., Chai, F., Curchitser, E.N. et al. 2018. Future changes in coastal upwelling ecosystems with global warming: The case of the California Current System. Sci Rep 8, 2866. https://doi.org/10.1038/s41598-018-21247-7
 
 
-
 ### Notes
+
 
 
 
