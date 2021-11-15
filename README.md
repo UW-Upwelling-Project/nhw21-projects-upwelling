@@ -40,6 +40,8 @@ I have been doing some pilot projects using the Optimal Interpolation SST datase
 
 **A nearshore-offshore upwelling detection method** Simple and straight-forward to apply.
 
+<img src="images/auto-detection1.png" width="40%"><img src="images/upwelling-seasonality.png" width="40%">
+
 ![](images/auto-detection1.png)
 
 **Image decomposition algorithms: PCA and hierarchical clustering**
