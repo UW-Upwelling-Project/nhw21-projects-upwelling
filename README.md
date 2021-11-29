@@ -76,8 +76,7 @@ Figure 5. The 20km and 300km coastal shapefile lines along with points every 100
 ![](images/global-coast-lines.png)
 Figure 6. The 20km (blue) and 300km (red) lines shown for North and South America.
 
-
-
+## Notebooks
 
 ### Background reading
 
