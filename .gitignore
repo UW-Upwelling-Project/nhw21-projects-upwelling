@@ -107,7 +107,7 @@ venv.bak/
 *.h5
 *.hdf
 *.hdf5
-*.nc
+data/*.nc
 *.tif
 .netrc
 *.Rproj
