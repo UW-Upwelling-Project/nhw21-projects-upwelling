@@ -3,6 +3,12 @@
 
 ## Spatio-temporal changes in global upwelling patterns
 
+* [Video discussion of the notebooks](https://youtu.be/mmckUp9eWS0)
+
+* [Presentation](https://www.youtube.com/watch?v=1_EQavsw2zI)
+
+* [Walk through of the main notebook](https://youtu.be/zj36uLswiRQ)
+
 ### Project Summary
 
 Exploration of spatial and temporal variability in coastal upwelling patterns using satellite data that more directly measures in-situ coastal upwelling: SST and upward velocity (via [SSH](https://journals.ametsoc.org/view/journals/phoc/50/1/jpo-d-19-0172.1.xml)).
