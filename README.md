@@ -11,7 +11,7 @@ I am interested in 2D and 3D image machine learning to study this spato-temporal
 
 ### Collaborators on this project
 
-Project lead: Eli Holmes, NOAA; OTHERS WELCOME TO JOIN!
+Project lead: Eli Holmes, NOAA
 
 ### The problem
 
